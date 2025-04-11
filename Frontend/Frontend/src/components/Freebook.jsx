@@ -63,8 +63,8 @@ function Freebook() {
         <div>
           <h1 className="font-semibold text-xl pb-2">Free Offered Courses</h1>
           <p>
-          Discover, Learn, Grow Dive into our diverse range of courses,
-           from literature to tech. Elevate your skills and knowledge with expert-led guides.
+          Discover, Grow Dive into our diverse range of courses,
+           from literature to tech. Elevate your skills and knowledge with expert-led guides.....
           </p>
         </div>
 
