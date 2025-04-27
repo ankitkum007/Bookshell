@@ -3,7 +3,6 @@ import { useState } from "react";
 import Login from "./Login";
 import Logout from "./Logout";
 import { useAuth } from "../context/AuthProvider";
-import Contact from "./Contact";
 
 function Navbar() {
   const [authUser, setAuthUser] = useAuth();
